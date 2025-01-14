@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: AmaysimQATest1.AmaysimQA
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 49.83 s -- in AmaysimQATest1.AmaysimQA
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 49.54 s -- in AmaysimQATest1.AmaysimQA

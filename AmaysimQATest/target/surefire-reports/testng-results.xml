@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-14T13:49:28 SGT" name="Surefire suite" finished-at="2025-01-14T13:50:17 SGT" duration-ms="49181">
+  <suite started-at="2025-01-14T15:57:07 SGT" name="Surefire suite" finished-at="2025-01-14T15:57:56 SGT" duration-ms="49037">
     <groups>
     </groups>
-    <test started-at="2025-01-14T13:49:28 SGT" name="Surefire test" finished-at="2025-01-14T13:50:17 SGT" duration-ms="49181">
+    <test started-at="2025-01-14T15:57:07 SGT" name="Surefire test" finished-at="2025-01-14T15:57:56 SGT" duration-ms="49037">
       <class name="AmaysimQATest1.AmaysimQA">
-        <test-method is-config="true" signature="setup()[pri:0, instance:AmaysimQATest1.AmaysimQA@350aac89]" started-at="2025-01-14T13:49:28 SGT" name="setup" finished-at="2025-01-14T13:49:30 SGT" duration-ms="2478" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AmaysimQATest1.AmaysimQA@75437611]" started-at="2025-01-14T15:57:07 SGT" name="setup" finished-at="2025-01-14T15:57:09 SGT" duration-ms="1878" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="UIPage()[pri:0, instance:AmaysimQATest1.AmaysimQA@350aac89]" started-at="2025-01-14T13:49:30 SGT" name="UIPage" finished-at="2025-01-14T13:49:41 SGT" duration-ms="11153" status="PASS">
+        <test-method signature="AmaysimQAPlanSubcription()[pri:0, instance:AmaysimQATest1.AmaysimQA@75437611]" started-at="2025-01-14T15:57:09 SGT" name="AmaysimQAPlanSubcription" finished-at="2025-01-14T15:57:56 SGT" duration-ms="47010" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- UIPage -->
-        <test-method signature="Checkout()[pri:1, instance:AmaysimQATest1.AmaysimQA@350aac89]" started-at="2025-01-14T13:49:42 SGT" name="Checkout" finished-at="2025-01-14T13:50:03 SGT" duration-ms="21853" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Checkout -->
-        <test-method signature="PaymentPage()[pri:3, instance:AmaysimQATest1.AmaysimQA@350aac89]" started-at="2025-01-14T13:50:03 SGT" name="PaymentPage" finished-at="2025-01-14T13:50:17 SGT" duration-ms="13550" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- PaymentPage -->
+        </test-method> <!-- AmaysimQAPlanSubcription -->
       </class> <!-- AmaysimQATest1.AmaysimQA -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
